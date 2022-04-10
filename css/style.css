@@ -1,11 +1,22 @@
+
+/* main body */
 body {
     font-size: 16px;
     font-family: Helvetica;
 }
+
+/*paragraph*/
+
 p1 {
     line-height: 1.5;
 }
 
 img {
     max-height: 400px;
+}
+
+/*color */
+
+.highlighted{
+    color: red
 }
